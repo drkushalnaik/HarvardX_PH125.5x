@@ -33,3 +33,4 @@ cd -
 cd cd /c/Users/Kushal/Documents/Git/HarvardX_PH125.5x
 cd C:\Users\Kushal\Documents\Git\HarvardX_PH125.5x
 pwd
+cd
